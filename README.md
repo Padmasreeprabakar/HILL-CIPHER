@@ -70,7 +70,7 @@ int main() {
     char enc[1000] = "";
     char dec[1000] = "";
     int n;
-    strcpy(msg, "Ragavan");
+    strcpy(msg, "padma sree");
     printf("Simulation of Hill Cipher\n");
     printf("Input message : %s\n", msg);
     // Convert message to uppercase
